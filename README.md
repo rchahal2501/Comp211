@@ -1,4 +1,4 @@
-# Comp211_C
+# Comp211
 Holds projects from Wesleyan University's Principles of Imperative Computation COMP211 course.
 
 Project 1: Performs the Nim Game taking 'userinput' vs 'computer'.
