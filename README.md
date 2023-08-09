@@ -1,5 +1,5 @@
 # rc-c
-Holds the following projects using C: 
+Holds the following projects using C from comp211:
 
 Project 1: Performs the Nim Game in 'userinput' vs 'computer' mode.
 
